@@ -1,6 +1,6 @@
 # przypisanie Stringów do zmiennych
 imie = 'Jarek'
-miasto = 'Dąbrowa Górnicza'
+miasto = 'Dąbrowa Górnicza - Gołonóg'
 
 # przypisanie tablicy do zmiennej
 rzeczy_ktore_lubie = ['🍺', '🥦', '🐔', '🍕', 'vim']
